@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\DragMe.cs" />
     <Compile Include="Assets\Scripts\DragPanel.cs" />
     <Compile Include="Assets\Scripts\DropMe.cs" />
+    <Compile Include="Assets\Scripts\MyScripts\MenuController.cs" />
     <Compile Include="Assets\Scripts\PanelManager.cs" />
     <Compile Include="Assets\Scripts\ResizePanel.cs" />
     <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
@@ -606,31 +607,31 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/RAS PRACTICAS/MiPrimerMenú/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/RAS PRACTICAS/UNITY/MiPrimerMenú/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
